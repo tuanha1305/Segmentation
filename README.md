@@ -67,7 +67,7 @@ python export.py --net [model_name] --ckpt [path/to/checkpoint] --out [path/to/o
 
 ## Custom Model Architecture
 
-This project includes custom implementations of ISNet, MODNet, and U2Net. The model architectures can be found in the `model/` directory. You can modify these files to experiment with different network structures.
+This project includes custom implementations of `ISNet`, `MODNet`, and `U2Net`. The model architectures can be found in the `model/` directory. You can modify these files to experiment with different network structures.
 
 ## Evaluation Metrics
 
@@ -79,7 +79,7 @@ The project is licensed under the terms of the [LICENSE](./LICENSE) file.
 
 ## Acknowledgements
 
-This project is inspired by the Dichotomous Image Segmentation (DIS) approach. We have made significant modifications to suit our specific needs.
+This project is inspired by the `Dichotomous Image Segmentation (DIS)` approach. We have made significant modifications to suit our specific needs.
 
 ## Contact
 
