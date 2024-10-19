@@ -75,7 +75,7 @@ The project uses various evaluation metrics including F-measure, Mean Absolute E
 
 ## License
 
-[Specify the license here]
+The project is licensed under the terms of the [LICENSE](./LICENSE) file.
 
 ## Acknowledgements
 
